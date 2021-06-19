@@ -12,6 +12,13 @@ Blocks Recommendations, comments and trending on various sites
 ![image](https://user-images.githubusercontent.com/85732279/122640211-bc4e3280-d0ed-11eb-829b-0f75d6f06fde.png)
 
 
+# All
+Blocklist URL: `https://github.com/Flinner/NoSurf-Blocklist/raw/main/all.txt`
+
+## Includes
+- Youtube Blocklist
+- Reddit Bloclist
+
 # Youtube
 Blocklist URL: `https://github.com/Flinner/NoSurf-Blocklist/raw/main/youtube.txt`
 

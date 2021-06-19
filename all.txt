@@ -1,0 +1,17 @@
+! reddit frontpage
+www.reddit.com##._1vyLCp-v-tE5QvZovwrASa
+
+! reddit trending
+www.reddit.com##.Ab_CG1GZxb0mjtooTcgRC._1Pcih1cgtQusjyfxp7YPbP
+
+! reddit more posts
+www.reddit.com##._3O03kg0NTHcVFAyOQNoptz ~ *
+
+! front page
+www.youtube.com##.ytd-two-column-browse-results-renderer.style-scope > .ytd-rich-grid-renderer.style-scope
+
+! recommendations
+www.youtube.com###secondary
+
+! recommendations in small screen
+www.youtube.com##ytd-watch-next-secondary-results-renderer.ytd-watch-flexy.style-scope > .ytd-watch-next-secondary-results-renderer.style-scope
