@@ -8,7 +8,7 @@ Blocks Recommendations, comments and trending on various sites
 ![image](https://user-images.githubusercontent.com/85732279/122640145-595c9b80-d0ed-11eb-9360-f5f09136f489.png)
 
 3. Scroll down and check the "Import" checkbox
-4. Add The filters that you want.
+4. Add The filter URL that you want. (scroll down to find them *Blocklist URL*)
 ![image](https://user-images.githubusercontent.com/85732279/122640211-bc4e3280-d0ed-11eb-829b-0f75d6f06fde.png)
 
 
