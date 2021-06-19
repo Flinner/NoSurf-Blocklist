@@ -11,6 +11,14 @@ Blocks Recommendations, comments and trending on various sites
 4. Add The filter URL that you want. (scroll down to find them *Blocklist URL*)
 ![image](https://user-images.githubusercontent.com/85732279/122640211-bc4e3280-d0ed-11eb-829b-0f75d6f06fde.png)
 
+# To Disable
+
+You might want to *really* check the comments for something important and want to disable the filter, this can be easily done via
+
+1. Click UBlock Origin's Icons
+2. Click on the `eye` to toggle the filter
+![image](https://user-images.githubusercontent.com/85732279/122640530-94f86500-d0ef-11eb-82d0-a12461f24e35.png)
+
 
 # All
 Blocklist URL: `https://github.com/Flinner/NoSurf-Blocklist/raw/main/all.txt`
