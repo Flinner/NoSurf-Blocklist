@@ -2,9 +2,14 @@
 Blocks Recommendations, comments and trending on various sites
 
 # Installation
-Get UblockOrigin from (Here)[https://ublockorigin.com/]
+1. Get UblockOrigin from [Here](https://ublockorigin.com/)
 
-TODO: add Installation Instructions
+2. Then go to UblockOrigin's settings
+![image](https://user-images.githubusercontent.com/85732279/122640145-595c9b80-d0ed-11eb-9360-f5f09136f489.png)
+
+3. Scroll down and check the "Import" checkbox
+4. Add The filters that you want.
+![image](https://user-images.githubusercontent.com/85732279/122640211-bc4e3280-d0ed-11eb-829b-0f75d6f06fde.png)
 
 
 # Youtube
