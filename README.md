@@ -13,7 +13,9 @@ Blocks Recommendations, comments and trending on various sites
 
 
 # Youtube
-Blocks:
+Blocklist URL: `https://github.com/Flinner/NoSurf-Blocklist/raw/main/youtube.txt`
+
+## Blocks:
 
 - Comments
 - Recommendations
@@ -21,7 +23,9 @@ Blocks:
 
 
 # Reddit
-Blocks
+Blocklist URL: `https://raw.githubusercontent.com/Flinner/NoSurf-Blocklist/main/reddit.txt`
+
+## Blocks
 
 - Front Page
 - More Posts
